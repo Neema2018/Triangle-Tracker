@@ -4,3 +4,11 @@
     text-align: center;
     font-size: 40px;
 }
+body{
+    background-image: url(../images/8k.jpg);
+    background-size: cover;
+}
+.equilateral{
+    color: white;
+    font-style: oblique;
+}
