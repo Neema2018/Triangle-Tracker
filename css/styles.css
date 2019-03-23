@@ -7,6 +7,9 @@
 body{
     background-image: url(../images/8k.jpg);
     background-size: cover;
+    float: inherit;
+    margin: 0;
+    padding: 0;
 }
 .equilateral{
     color: white;
