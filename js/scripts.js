@@ -1,7 +1,7 @@
 function triangle(){
-    var length1 = [parseFloat(prompt('Input length1'))]
-      var length2 = [parseFloat(prompt('Input length2'))]
-      var length3 = [parseFloat(prompt('Input length3'))]
+    var length1 = [parseFloat(prompt('Enter First Length'))]
+      var length2 = [parseFloat(prompt('Enter Second Length'))]
+      var length3 = [parseFloat(prompt('Enter Third Length'))]
      var ab = length1.concat(length2);
      var abc = ab.concat(length3) ;
     var sorted = abc.sort(function (d, e) {
