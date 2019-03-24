@@ -10,6 +10,8 @@ body{
     float: inherit;
     margin: 0;
     padding: 0;
+    color: white;
+    font-style: oblique;
 }
 .equilateral{
     color: white;
