@@ -11,8 +11,9 @@ This is done by a user is prompted to input three lengths.
 # Set-up Requirements
 I used vs code as my editor.I also used HTML and CSS
 One may access triangle tracker using Google Chrome or Mozilla Firefox. A link to a live site on github would be https://neema2018.github.io/triangle-tracker/
+# Contact
 To contact me call 0737870940 or 0705705614.
-MIT License
+# MIT License
 Copyright (c) [2019] [PRECIOUS NEEMA]
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
